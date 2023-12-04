@@ -1,2 +1,2 @@
 # React-Folder-Structure
-# Understand how folder structure works of React in organization.
+# Understanding how folder structure of a good react application should look like
